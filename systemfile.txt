@@ -1,0 +1,4 @@
+This is system file added by anand.
+
+for i in range(10):
+	print(i)
